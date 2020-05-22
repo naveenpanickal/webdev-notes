@@ -1,0 +1,11 @@
+- **Toggle word wrap** -  Alt + z 
+- **Toggle side bar** -  Ctrl + b
+- **Toggle file explorer** -  Ctrl + Shift + e
+- **Quick open a file** -  Ctrl + p
+- **Reopen a tab you just closed** -  Ctrl + Shift + t
+- **Close an active tab** -  Ctrl + w
+- **Go to a specific tab that is open** - Alt + number
+- **Select multiple lines to edit** - Alt + click
+- **Select multiple lines (above/below)** - Shift + Alt + ⍐ / ⍗
+- **Move a line up or down** - Alt + ⍐ / ⍗
+- **Toggle the terminal** - Ctrl +   ̴
