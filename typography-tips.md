@@ -1,0 +1,11 @@
+- Group related information
+- Make contrast through font-size
+- Make contrast through font-weight
+- Add contrast through color
+- Increase the line-height of the body text from default. (1.5 generally)
+- Decrease the line-height of large text (titles) from default.
+    - If the text is all caps, decrease the line-height further.
+- For small texts, add more letter spacing.
+- Limit your line lengths (not more than 70 characters).
+    - Keep it between 50 and 70.
+    - Try using ch units gr paragraphs in css. 
