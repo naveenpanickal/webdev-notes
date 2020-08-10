@@ -1,5 +1,5 @@
 - `git init`<br>
-  create a new local GIT repository in the curret directory<br><br>
+  create a new local GIT repository in the current directory<br><br>
 - `git init [project name]`<br>
   create a new repository within a new directory of the name<br><br>
 - `git clone username@host:/path/to/repository`<br>
